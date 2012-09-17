@@ -1,0 +1,6 @@
+$artist - $album\$artist - $title
+$artist\$album\$artist - $title
+$artist\$artist - $album\$title
+$artist\$artist - $album\$artist - $title
+$artist\$artist - $album - $title
+$artist\$album\$year\$artist - $album - $artist - $title

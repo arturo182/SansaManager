@@ -1,0 +1,16 @@
+  body {
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    color: #000000;
+  }
+
+  td, body, div {
+    font-family: Tahoma;
+    font-size: 12px;
+  }
+
+  a {
+    color: #000000;
+    text-decoration: underline;
+  }

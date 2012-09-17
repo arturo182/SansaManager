@@ -1,0 +1,167 @@
+[Translation]
+Author=h4ppy
+Email=h4ppy@zoznam.sk
+
+[fMain]
+itmMusic=Hudba
+tabMusic=Hudba
+itmPhotos=Obrázky
+tabPhotos=Obrázky
+itmVideo=Video
+tabVideo=Video
+itmPlay=Playlisty
+tabPlay=Playlisty
+itmThemes=Témy
+tabThemes=Témy
+itmEbooks=eBooks
+tabEbooks=eBooks
+itmAbout=About
+lbPhotosImages=Obrázky na konvertovanie:
+lPhotosAlbum=Album:
+lbPhotosRotate=Uhel otoèenia (nejlepší - 270):
+lbPhotosResizeW=Nová šírka:
+lbPhotosResizeH=Nová vıška:
+gbPhotos=Nastavenie konvertovania
+cbPhotosResize=Rozmery obrázkov
+btnPhotosConvert=Konvertova!
+btnEBooksConvert=Konvertova!
+btnRecordingsConvert=Konvertova!
+tabMusicFolders=Prezera sloky
+tabMusicTags=Prezera tagy
+itmRecordings=Nahrávky
+itmPodcasts=Podcasty
+tabRecordings=Nahrávky
+tabPodcasts=Podcasty
+itmPodcastsAdd=Prida kanál
+itmPodcastsRefresh=Obnovi
+itmPodcastsDel=Vyma kanál
+itmPodcastsDown=Stiahnu
+lbEBooksFiles=Súbory na konvertovanie:
+gbEBooks=Nastavenie konvertovania
+lbEBooksAlbum=Album:
+lbEBooksTxtColor=Farba textu:
+lbEBooksBGColor=Farba pozadia:
+cbEBooksAA=Anti-Aliasing
+cbEBooksPgNb=Prida èísla stránok
+lbRecordings=Nahrávky na konvertovanie:
+gbRecordings=Nastavenie konvertovania
+rbRecordingsMP3=Konvertova do MP3
+rbRecordingsWMA=Konvertova do WMA
+rbRecordingsOGG=Konvertova do OGG
+lbRecordingsOutput=Cielová zloka:
+tabMusicAlbum=Prezera albumy
+itmMusicTagsSearchNext=Nájs ïalsie
+itmMusicTagsSearchPrev=Nájs predchádzajúce
+itmMusicTagsSearchAll=Zvırazni všetko
+lbMusicTagsSearch=Nájs
+lbStatus=Prehrávaè je odpojenı
+rbRecordingsWAV=Len skopírova
+tabAbout=About
+itmPlayAdd=Prida playlist
+itmPlayDel=Vymaza playlist
+itmPlayAddFile=Prida súbor
+itmPlayDelFile=Vymaza súbor
+itmPlaySave=Uloi zmeny
+itmTags=Tagy
+tabTags=Tagy
+itmPlayAddDir=Prida zloku
+tabTagsRename=Premenova
+lbTagsRenDest=Cielová zloka:
+lbTagsRenFormat=Cielovı formát:
+btnTagsRenameGo=Go!
+itmTagsAdd=Prida súbor
+itmTagsAddDir=Prida zloku
+itmTagsDelSel=Vymaza vybrané
+itmTagsClear=Vyèisti
+itmContacts=Kontakty
+tabContracts=Contracts
+itmContactsAdd=Prida
+itmContactsDel=Vymaza
+itmContactsImport=Importovat
+itmContactsImportOutlook=Z Outlook
+itmContactsSave=Uloi
+dPnlPlaylist=Playlist
+
+[fTags]
+tabBasic=Basic
+tabInfo=Info
+tabAlbumArt=Obrázok albumu
+lbArtist=Interpret:
+lbTrTitle=Názov:
+lbAlbum=Album:
+lbYear=Rok:
+lbGenre=áner:
+lbTrNumber=Èíslo stopy #:
+lbComment=Komentáre:
+lbLength=Dåka:
+lbBitrate=Bitrate:
+lbCopyr=Chránené:
+lbFrequency=Frequency:
+lbFileSize=Ve¾kost:
+lbOriginal=Originál:
+gbAlbumTags=Zo súboru tagou:
+lbAlbumTagsWidth=Šírka:
+lbAlbumTagsHeight=Vıška:
+lbAlbumTagsFileSize=Velkos súboru:
+btnAlbumTagsDel=Vymaza
+btnAlbumTagsSave=Uloi ako...
+btnAlbumTagsCompress=Kompresia
+gbAlbumDirectory=Zo súboru zloiek:
+btnAlbumDirCompress=Kompresia
+btnAlbumDirSave=Uloi ako...
+btnAlbumDirDel=Vymaza
+lbAlbumDirFileSize=Velkos súboru:
+lbAlbumDirHeight=Vıška:
+lbAlbumDirWidth=Šírka:
+btnCancel=Ukonèi
+btnOk=OK
+btnSearchAmazon=Hlada na Amazonu
+
+[fAlbumArt]
+btnAlbumArtUse=Poui tento
+
+[fAbout]
+lbLegalInfo=SansaManager nie je nijako spojenı so SanDisk Corporation. SanDisk a logo SanDisk sú obchodné znaèky SanDisk Corporation, registrované v Spojenıch Štátoch a dalších krajín. Sansa je obchodná znaèka SanDisk Corporation, registrovaná v U.S. a dalších krajín.
+lbAppName=SansaManager
+lbCopyRight=Copyright © 2007 arturo182
+lbEmail=arturo182@tlen.pl
+
+[fFormat]
+btnAdd=Prida
+btnDuplicate=Kopírova
+btnDelete=Vymaza
+btnUp=Hore
+btnDown=Dole
+;dont change those
+btnArtist=$artist
+btnTitle=$title
+btnAlbum=$album
+btnYear=$year
+;end
+
+[Messages]
+NoImages=iadne fotky ku konverzii
+ConnectSansa=Sansa musí by pripojená, aby táto funkcia mohla fungova.
+PhotosFilter=Všetky (*.gif;*.pcx;*.jpg;*.jpeg;*.bmp)|*.gif;*.pcx;*.jpg;*.jpeg;*.bmp|CompuServe Obrázky GIF (*.gif)|*.gif|PCX Image (*.pcx)|*.pcx|Súbory formátu JPEG (*.jpeg; *.jpg)|*.jpeg;*.jpg|Bitmapy(*.bmp)|*.bmp
+PlayerDisconnected=Prehrávaè odpojenı
+PlayerConnected=Prehrávaè pøipojenı
+Bytes=Byt(ou)
+PhotosError=Zloka PHOTO nenájdená, nieèo je zle!
+PhotosAdd=Prida obrázok
+PhotosDel=Vymaza vybrané
+PhotosClear=Vyèistí všetko
+PodcastFileNotF=Kanál nenájdenı, skúste obnovi kanál.
+PodcastAddCapt=Prida kanál
+PodcastAddTxt=URL kanálu:
+EBooksFileNotF=Nevybrali ste iady súbor alebo iadny súbor neexistuje
+EBooksFilter=Všetky (*.txt;*.pdf;*.htm;*.html)|*.txt;*.pdf;*.htm;*.html|Textové dokumenty (*.txt)|*.txt|PDF files (*.pdf)|*.pdf|HTML dokumenty (*.htm;*.html)|*.htm;*.html
+ByTagsFirst=Najskôr musíte zoradi vaše súbory podla tagou.
+PlaylistAddCapt=Prida playlist
+PlaylistAddTxt=Meno playlistu:
+Artist=Interpret
+Title=Názov
+Album=Album
+Year=Rok
+Genre=áner
+Filename=Meno súboru
+FormatBlank=[blank]

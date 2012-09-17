@@ -1,0 +1,167 @@
+[Translation]
+Author=Sikkan
+Email=nils_wretling@hotmail.com
+
+[fMain]
+itmMusic=Musik
+tabMusic=Musik
+itmPhotos=Foto
+tabPhotos=Foto
+itmVideo=Video
+tabVideo=Video
+itmPlay=Spellistor
+tabPlay=Spellistor
+itmThemes=Teman
+tabThemes=Teman
+itmEbooks=eBöcker
+tabEbooks=eBöcker
+itmAbout=Info
+lbPhotosImages=Bilder att konvertera:
+lPhotosAlbum=Album:
+lbPhotosRotate=Rotera (rekomenderat - 270):
+lbPhotosResizeW=Ny bredd:
+lbPhotosResizeH=Ny höjd:
+gbPhotos=Konverteringsval
+cbPhotosResize=Ändra storlek
+btnPhotosConvert=Konvertera!
+btnEBooksConvert=Konvertera!
+btnRecordingsConvert=Konvertera!
+tabMusicFolders=Bläddra mappar
+tabMusicTags=Bläddra tags
+itmRecordings=Inspelningar
+itmPodcasts=Podcasts
+tabRecordings=Inspelningar
+tabPodcasts=Podcasts
+itmPodcastsAdd=Lägg till kanal
+itmPodcastsRefresh=Uppdatera
+itmPodcastsDel=Ta bort kanal
+itmPodcastsDown=Ladda ned
+lbEBooksFiles=Filer att konvertera:
+gbEBooks=Konverteringsval
+lbEBooksAlbum=Album:
+lbEBooksTxtColor=Text färg:
+lbEBooksBGColor=Bakgrundsfärg:
+cbEBooksAA=Anti-Aliasing
+cbEBooksPgNb=Lägg till sidnummer
+lbRecordings=Inspelningar att konvertera:
+gbRecordings=Konverteringsval
+rbRecordingsMP3=Konvertera till MP3
+rbRecordingsWMA=Konvertera till WMA
+rbRecordingsOGG=Konvertera till OGG
+lbRecordingsOutput=Målsmapp:
+tabMusicAlbum=Bläddra album
+itmMusicTagsSearchNext=Sök text
+itmMusicTagsSearchPrev=Sök nästa
+itmMusicTagsSearchAll=Markera allt
+lbMusicTagsSearch=Sök:
+lbStatus=Spelaren hittas ej
+rbRecordingsWAV=Kopiera
+tabAbout=Info
+itmPlayAdd=Lägg till spellista
+itmPlayDel=Ta bort spellista
+itmPlayAddFile=Lägg till fil
+itmPlayDelFile=Ta bort fil
+itmPlaySave=Spara ändringar
+itmTags=Tags
+tabTags=Tags
+itmPlayAddDir=Lägg till mapp
+tabTagsRename=Ändra namn
+lbTagsRenDest=Målsmapp:
+lbTagsRenFormat=Målsformat:
+btnTagsRenameGo=Kör!
+itmTagsAdd=Lägg till fil
+itmTagsAddDir=Lägg till mapp
+itmTagsDelSel=Ta bort markerade
+itmTagsClear=Rensa
+itmContacts=Kontakter
+tabContracts=Kontakter
+itmContactsAdd=Lägg till
+itmContactsDel=Ta bort
+itmContactsImport=Importera
+itmContactsImportOutlook=Från Outlook
+itmContactsSave=Spara
+dPnlPlaylist=Spellista
+
+[fTags]
+tabBasic=Basic
+tabInfo=Info
+tabAlbumArt=Album Art
+lbArtist=Artist:
+lbTrTitle=Låt titel:
+lbAlbum=Album:
+lbYear=År:
+lbGenre=Genre:
+lbTrNumber=Spår #:
+lbComment=Kommentar:
+lbLength=Längd:
+lbBitrate=Bitrate:
+lbCopyr=Copyright:
+lbFrequency=Frekvens:
+lbFileSize=Filstorlek:
+lbOriginal=Original:
+gbAlbumTags=Från fil-tag:
+lbAlbumTagsWidth=Bredd:
+lbAlbumTagsHeight=Höjd:
+lbAlbumTagsFileSize=Filstorlek:
+btnAlbumTagsDel=Ta bort
+btnAlbumTagsSave=Spara som...
+btnAlbumTagsCompress=Komprimera
+gbAlbumDirectory=Från fil-mapp:
+btnAlbumDirCompress=Komprimera
+btnAlbumDirSave=Spara som...
+btnAlbumDirDel=Ta bort
+lbAlbumDirFileSize=Filstorlek:
+lbAlbumDirHeight=Höjdt:
+lbAlbumDirWidth=Bredd:
+btnCancel=Cancel
+btnOk=OK
+btnSearchAmazon=Sök på Amazon
+
+[fAlbumArt]
+btnAlbumArtUse=Använd
+
+[fAbout]
+lbLegalInfo=SansaManager skall inte blandas ihop med SanDisk Corporation. SanDisk och SanDisk logotyp är ett varumärke av SanDisk Corporation, registrerad i USA och andra länder. Sansa är ett varumärke från SanDisk Corporation, registrerad i USA och andra länder.
+lbAppName=SansaManager
+lbCopyRight=Copyright © 2007 arturo182
+lbEmail=arturo182@tlen.pl
+
+[fFormat]
+btnAdd=Lägg till
+btnDuplicate=Duplicera
+btnDelete=Ta bort
+btnUp=Flytta upp
+btnDown=Flytta ner
+;ändra dom inte
+btnArtist=$artist
+btnTitle=$title
+btnAlbum=$album
+btnYear=$year
+;end
+
+[Messages]
+NoImages=Inga foton att konvertera
+ConnectSansa=Sansa har ingen förbindelse för att denna funktion ska fungera
+PhotosFilter=All (*.gif;*.pcx;*.jpg;*.jpeg;*.bmp)|*.gif;*.pcx;*.jpg;*.jpeg;*.bmp|CompuServe GIF Image (*.gif)|*.gif|PCX Image (*.pcx)|*.pcx|JPEG Image File (*.jpeg; *.jpg)|*.jpeg;*.jpg|Bitmaps (*.bmp)|*.bmp
+PlayerDisconnected=Spelaren hittas ej
+PlayerConnected=Spelaren hittad
+Bytes=Byte(s)
+PhotosError=Något är fel, PHOTO mappen hittades inte!
+PhotosAdd=Lägg till foto
+PhotosDel=Ta bort markerade
+PhotosClear=Rensa allt
+PodcastFileNotF=Kanalen hittades inte. Uppdatera igen.
+PodcastAddCapt=Lägg till kanal
+PodcastAddTxt=Kanal URL:
+EBooksFileNotF=Du har inte specificerat någon fil eller så existerar den inte.
+EBooksFilter=All (*.txt;*.pdf;*.htm;*.html)|*.txt;*.pdf;*.htm;*.html|Text documents (*.txt)|*.txt|PDF files (*.pdf)|*.pdf|HTML documents (*.htm;*.html)|*.htm;*.html
+ByTagsFirst=Sortera tag'ar först.
+PlaylistAddCapt=Lägg till spellista
+PlaylistAddTxt=Namn på spellista:
+Artist=Artist
+Title=Låt titel
+Album=Album
+Year=År
+Genre=Genre
+Filename=Filnamn
+FormatBlank=[blank]
